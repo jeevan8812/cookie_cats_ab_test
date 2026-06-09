@@ -1,0 +1,10 @@
+Metric,gate_30 (Control),gate_40 (Test),Difference
+Total Players,"44,700","45,489",-
+Day 1 Retention,44.82%,44.23%,-0.59%
+Day 7 Retention,19.02%,18.20%,-0.82%
+Avg Rounds Played (Week 1),52.46,51.30,-1.16
+Z-Statistic (Day 7),3.16,-,-
+P-Value (Day 7),0.0008,-,-
+Statistically Significant?,✓ Yes (p < 0.05),-,-
+Extra Players Retained/Week,-,-,~740 players
+Est. Annual Revenue at Risk,-,-,"~$13,460"
